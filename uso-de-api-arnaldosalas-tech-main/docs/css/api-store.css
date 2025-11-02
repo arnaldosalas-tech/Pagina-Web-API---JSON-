@@ -1,0 +1,3 @@
+/* Estilos mínimos para mejorar la presentación */
+.card-title { min-height: 3rem; }
+#carrusel .carousel-item img { object-fit: contain; height: 360px; }
